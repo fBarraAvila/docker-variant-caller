@@ -205,3 +205,26 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ---------------------------------
+# CUSTOM PROJECT RULES
+# ---------------------------------
+
+# --- Mac System Files ---
+.DS_Store
+
+# --- Bioinformatics Outputs (Heavy files) ---
+*.sam
+*.bam
+*.bai
+*.vcf
+*.bwt
+*.pac
+*.ann
+*.amb
+*.sa
+*.fai
+
+# --- Data Folders ---
+# Ignore everything inside the data folder to protect privacy/disk space
+data/*
