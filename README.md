@@ -21,7 +21,7 @@ This project runs a full standard pipeline using Docker to ensure reproducibilit
 ### 2. Setup
 Clone the repository:
 ```bash
-git clone [https://github.com/YourUsername/docker-variant-caller.git](https://github.com/YourUsername/docker-variant-caller.git)
+git clone [https://github.com/fBarraAvila/docker-variant-caller.git](https://github.com/fBarraAvila/docker-variant-caller.git)
 cd docker-variant-caller
 ```
 
